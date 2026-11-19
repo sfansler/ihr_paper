@@ -1,0 +1,12 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+~$*
+data/
+.venv/
+
+# Manuscript documents (keep out of the repository; figure PDFs in figures/ stay tracked)
+*.docx
+/*.pdf
